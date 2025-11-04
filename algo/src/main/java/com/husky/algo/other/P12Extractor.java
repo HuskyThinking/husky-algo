@@ -123,7 +123,7 @@ public class P12Extractor {
     }
 
     public static void main(String[] args) {
-        // --- 请修改以下三个参数 ---
+        // --- 请修改以下四个参数 ---
         String filePath = "C:\\Users\\"; // 替换为您的 .p12 文件路径
         String fileName = "test.p12";      // 替换为您的 .p12 文件名称
         String storePwd = "test";      // 替换为 KeyStore 的密码
