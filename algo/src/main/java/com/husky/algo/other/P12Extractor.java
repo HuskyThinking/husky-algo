@@ -1,4 +1,4 @@
-package com.husky.algo;
+package com.husky.algo.other;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
